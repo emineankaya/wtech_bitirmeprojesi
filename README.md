@@ -45,6 +45,8 @@ beyaz_ayakkabılar: 600
 beyaz_şort: 120  
 
 Veri setine [burdan](https://www.kaggle.com/datasets/trolukovich/apparel-images-dataset) ulaşabilirsiniz
+
+![veri](veri.png)  
 # FastApI  
 Model sonularının API ile Tahmini 
 ![FastAPI](FASTAPI.jpeg)
